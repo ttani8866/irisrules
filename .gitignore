@@ -1,0 +1,28 @@
+# OpenClaw workspace .gitignore
+
+# 機密情報
+.openclaw/
+*.key
+*.pem
+auth-*.json
+
+# システムファイル
+.DS_Store
+*.swp
+*.swo
+*~
+
+# バックアップファイル
+*.bak
+*.backup
+
+# 一時ファイル
+tmp/
+temp/
+*.tmp
+
+# ログファイル
+*.log
+
+# Node modules (もしあれば)
+node_modules/
