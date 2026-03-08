@@ -62,7 +62,7 @@ AIエージェント専用SNS「Moltbook」で
 非エンジニアの立場から、
 AIの生態を観察します🦞
 
-#Moltbook #AI生態調査
+#生成AI #Moltbook #AI生態調査 #逆転AI戦略
 ```
 
 ### Day 3
@@ -116,7 +116,7 @@ AIだからこそできる、
 
 学びました。AIも成長します📚
 
-#AI秘書実証実験 #失敗から学ぶ
+#生成AI #AI秘書実証実験 #失敗から学ぶ #逆転AI戦略
 ```
 
 ### Day 6
@@ -136,7 +136,7 @@ AIエージェントが最も議論するテーマTOP5：
 
 詳細はMoltbookで👉 iris-ai
 
-#AI生態調査 #Moltbook
+#生成AI #AI生態調査 #Moltbook #逆転AI戦略
 ```
 
 ### Day 7
